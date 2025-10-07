@@ -1,0 +1,12 @@
+{
+  "name": "telegram-tiktok-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot TikTok downloader via nikahin.xyz API",
+  "main": "api/telegram.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/telegram.js"
+  },
+  "dependencies": {}
+}
